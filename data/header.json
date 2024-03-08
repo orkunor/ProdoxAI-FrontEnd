@@ -264,83 +264,9 @@
       "title": "Text Generator",
       "img": "/images/generator-icon/text.png",
       "badge": ""
-    },
-    {
-      "link": "/image-generator",
-      "isDisable": false,
-      "title": "Image Generator",
-      "img": "/images/generator-icon/photo.png",
-      "badge": "NEW"
-    },
-    {
-      "link": "/code-generator",
-      "isDisable": false,
-      "title": "Code Generator",
-      "img": "/images/generator-icon/code-editor.png",
-      "badge": ""
-    },
-    {
-      "link": "/image-editor",
-      "isDisable": false,
-      "title": "Photo Editor",
-      "img": "/images/generator-icon/photo-editor.png",
-      "badge": ""
-    },
-    {
-      "link": "/vedio-generator",
-      "isDisable": false,
-      "title": "Video Generator",
-      "img": "/images/generator-icon/video-camera.png",
-      "badge": ""
-    },
-    {
-      "link": "/email-generator",
-      "isDisable": false,
-      "title": "Email Writer",
-      "img": "/images/generator-icon/email.png",
-      "badge": ""
-    },
-    {
-      "link": "#",
-      "isDisable": true,
-      "title": "Website Generator",
-      "img": "/images/generator-icon/website-design.png",
-      "badge": "Coming"
-    },
-    {
-      "link": "/code-generator",
-      "isDisable": false,
-      "title": "HTML Generator",
-      "img": "/images/generator-icon/code-editor.png",
-      "badge": ""
-    },
-    {
-      "link": "#",
-      "isDisable": true,
-      "title": "Lyrics Generator",
-      "img": "/images/generator-icon/lyrics.png",
-      "badge": "Coming"
-    },
-    {
-      "link": "#",
-      "isDisable": false,
-      "title": "Speech to text",
-      "img": "/images/generator-icon/voice.png",
-      "badge": ""
-    },
-    {
-      "link": "#",
-      "isDisable": false,
-      "title": "Text to speech",
-      "img": "/images/generator-icon/text-voice.png",
-      "badge": ""
-    },
-    {
-      "link": "#",
-      "isDisable": true,
-      "title": "Chat with Documents",
-      "img": "/images/generator-icon/document.png",
-      "badge": "Coming"
     }
+
+
+    
   ]
 }

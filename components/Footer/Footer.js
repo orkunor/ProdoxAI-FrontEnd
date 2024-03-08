@@ -24,14 +24,14 @@ const Footer = () => {
                         className="logo-light"
                         src={logo}
                         width={201}
-                        height={35}
+                        height={70}
                         alt="Corporate Logo"
                       />
                       <Image
                         className="logo-dark"
                         src={logoDark}
                         width={201}
-                        height={35}
+                        height={70}
                         alt="Corporate Logo"
                       />
                     </Link>

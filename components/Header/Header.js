@@ -46,7 +46,7 @@ const Header = ({ headerTransparent, headerSticky, btnClass }) => {
                     className="logo-light"
                     src={logo}
                     width={201}
-                    height={35}
+                    height={150}
                     alt="ChatBot Logo"
                   />
                 </Link>
